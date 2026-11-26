@@ -1849,9 +1849,4 @@ background: linear-gradient(-45deg, #F4B183, #F28F83, #E985A1, #B18BBE, #829BC2)
   .u-section-2 .u-accordion-1 {
     width: 340px;
   }
-}/* FIX: Prevent footer from overlapping cards on mobile and tablet */
-@media (max-width: 991px) {
-    .u-section-2 .u-list-1 {
-        margin-bottom: 60px;
-    }
-} 
+}
